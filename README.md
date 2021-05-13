@@ -11,7 +11,6 @@
 
 
 ## Website
-https://tech-blog-rs.herokuapp.com/
 
 ## Languages
 * Javascript
